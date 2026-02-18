@@ -1,0 +1,14 @@
+/// <reference types = "Cypress" />
+
+describe('Advanced UI elements', () => {
+
+    it('Iframes demo', () => {
+        cy.visit('https://the-internet.herokuapp.com/iframe')
+        cy.get('#mce_0_ifr').within(function($iframe) {
+           const frame = $iframe.contents().find('#tinymce')
+           cy.wrap(frame).clear().type('Hello')
+           //cy.wrap(frame)
+        })
+    })
+
+})

@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "slug": "My-first-Demo-Post-29836",
+            "title": "Demo Mock test",
+            "description": "Demo post for udemy testing",
+            "body": "This is a Demo post for testing",
+            "tagList": [],
+            "createdAt": "2023-09-05T17:55:23.101Z",
+            "updatedAt": "2023-09-05T17:55:23.101Z",
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "vignesh",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "following": false
+            }
+        }
+    ],
+        "articlesCount": 1
+    }

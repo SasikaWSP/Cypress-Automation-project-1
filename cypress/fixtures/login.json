@@ -1,0 +1,9 @@
+{
+    "user": {
+        "email": "cypressdemo@gmail.com",
+        "username": "Vignesh-Udemy",
+        "bio": null,
+        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiY3lwcmVzc2RlbW9AZ21haWwuY29tIiwidXNlcm5hbWUiOiJjeXByZXNzZGVtbyJ9LCJpYXQiOjE2OTQ3MTM3ODksImV4cCI6MTY5OTg5Nzc4OX0.rPIjrcOZUifZekULjgqrV_fHxLjs_je3nZy1k47MzkU"
+    }
+}
